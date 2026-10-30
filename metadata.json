@@ -1,0 +1,6 @@
+{
+  "name": "VibePaper - AI Phone Wallpaper Studio",
+  "description": "Generate phone wallpapers in 9:16 aspect ratio from vibe descriptions with 4-variation batches, full-screen lock screen preview, and image remixing powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
